@@ -3,6 +3,7 @@ def say_hello():
 
 
 # some_comment
+# some_comment
 
 
 if __name__ == '__main__':
