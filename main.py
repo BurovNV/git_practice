@@ -1,5 +1,5 @@
-def say_hello():
-    print('hello!')
+def say_hello(name):
+    print(f'hello {name}!')
 
 
 def what_time():
@@ -10,4 +10,3 @@ def what_time():
 if __name__ == '__main__':
     for i in range(3):
         say_hello()
-    what_time()
